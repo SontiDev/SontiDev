@@ -14,8 +14,7 @@
 
 - 🎓 Estudio la Tecnicatura Universitaria en Programación en la UTN Haedo
 - 🔧 Soy técnico de armado y mantenimiento de PC
-- 🌱 Ahora estoy aprendiendo programación orientada a objetos, HTML y CSS
-- 🎮 Me gustan los videojuegos y armar cosas para jugar con amigos
+- 🎮 Me gustan los videojuegos
 - 📍 Buenos Aires, Argentina 🇦🇷
 
 ## 🛠️ Tecnologías
