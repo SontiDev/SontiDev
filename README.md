@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7A1F2B&height=120&section=header)
+
 # Santiago | Programación en construcción 🚧
 
 Un proyecto a la vez.
