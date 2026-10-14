@@ -2,7 +2,18 @@
 
 Aprendiendo en público: C, HTML, CSS y Git. Un proyecto a la vez.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D85A5A&width=435&lines=Estudiante+de+Programaci%C3%B3n;T%C3%A9cnico+de+PC;Aprendiendo+C+y+POO)](https://git.io/typing-svg)
+
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    printf("Hola, soy Santiago. Sigo aprendiendo.\n");
+    return 0;
+}
+```
 
 ## Proyecto destacado
 
