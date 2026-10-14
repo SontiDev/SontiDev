@@ -1,6 +1,6 @@
 # Santiago | Programación en construcción 🚧
 
-Aprendiendo en público: C, HTML, CSS y Git. Un proyecto a la vez.
+Un proyecto a la vez.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D85A5A&width=435&lines=Estudiante+de+Programaci%C3%B3n;T%C3%A9cnico+de+PC;Aprendiendo+C+y+POO)](https://git.io/typing-svg)
 
