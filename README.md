@@ -1,47 +1,16 @@
-<div align="center">
+# Santiago | Programación en construcción 🚧
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Santiago&fontSize=60&animation=fadeIn)
+Aprendiendo en público: C, HTML, CSS y Git. Un proyecto a la vez.
 
-### 👋 ¡Hola! Soy Santiago (SontiDev)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Estudiante+de+Programaci%C3%B3n;T%C3%A9cnico+de+PC;Aprendiendo+C+y+Python;Armando+mi+portfolio)](https://github.com/SontiDev)
+## Proyecto destacado
 
-</div>
+### [Ruleta de Juegos](https://github.com/SontiDev/Ruleta-de-Juegos-bot)
+Bot de Discord que elige al azar qué juego jugar con amigos. Se pueden sacar y agregar juegos de la lista, y evita repetir el mismo dos veces seguidas.
 
----
+Comandos: `/ruleta`, `/sacar`, `/agregar`, `/lista`
 
-## 🧑‍💻 Sobre mí
+## Contacto
 
-- 🎓 Estudio la Tecnicatura Universitaria en Programación en la UTN Haedo
-- 🔧 Soy técnico de armado y mantenimiento de PC
-- 🎮 Me gustan los videojuegos
-- 📍 Buenos Aires, Argentina 🇦🇷
-
-## 🛠️ Tecnologías
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-## 🚀 Proyectos
-
-### 🎲 [Ruleta de Juegos](https://github.com/SontiDev/Ruleta-de-Juegos-bot)
-Bot de Discord en Python que elige al azar a qué juego jugar con amigos. Tiene comandos slash, no repite el último juego y permite sacar opciones temporalmente.
-
-### 📄 Portfolio / CV en HTML
-*En construcción...*
-
-## 📫 Contacto
-
-[![GitHub](https://img.shields.io/badge/GitHub-SontiDev-181717?style=flat-square&logo=github)](https://github.com/SontiDev)
-
----
-
-<div align="center">
-
-⭐ *Siempre aprendiendo algo nuevo* ⭐
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](www.linkedin.com/in/santiago-rodriguez-72b50136a) [![Email](https://img.shields.io/badge/Email-444441)](mailto:Santi_745@hotmail.com)
